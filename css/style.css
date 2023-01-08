@@ -1,0 +1,33 @@
+body {
+    background-color: #ECE8DD;
+    font-style: normal;
+  }
+
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  img {
+    height: 250px;
+  }
+
+  h1{
+    color: dimgrey;
+  }
+  
+  h1:hover{
+    color: brown;
+  }
+
+  h3{
+    color: dimgray;
+  }
+
+  h3:hover{
+    color: brown;
+  }
